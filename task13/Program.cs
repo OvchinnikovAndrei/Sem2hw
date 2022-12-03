@@ -16,3 +16,23 @@ else
 {
     Console.WriteLine("Третьей цифры нет");
 }
+
+
+
+
+// Console.WriteLine("Введи число: ");
+// int num = int.Parse(Console.ReadLine()!);
+// string numText = Convert.ToString(num);
+
+// if (numText.Length > 2 || num > 0)
+// {
+//     Console.WriteLine(numText[2]);
+// }
+// else if (numText.Length < 3)
+// {
+//     Console.WriteLine("Третьей цифры нет");
+// }
+// else
+// {
+//     Console.WriteLine(numText[3]);
+// }
